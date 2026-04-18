@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 public class TennisTournamentSimulator {
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         try {
             System.out.println("Simulation started.");

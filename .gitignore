@@ -2,3 +2,4 @@ target/
 output.json
 *.class
 .claude/
+.DS_Store
